@@ -1,0 +1,19 @@
+body {
+    text-align:center;
+    background: rgb(0,139,144);
+    background: linear-gradient(90deg, rgba(0,139,144,1) 0%, rgba(18,0,180,1) 50%, rgba(108,0,143,1) 100%);
+}
+
+img {
+    width:400px;
+}
+h3 {
+    font:18px 'Tahoma';
+}
+
+h1 {
+    color:yellowgreen;
+}
+a {
+    font:25px 'Arial';
+}
